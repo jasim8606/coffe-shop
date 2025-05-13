@@ -1,0 +1,33 @@
+.lastbgc {
+    background-image: url(https://www.crazyvegankitchen.com/wp-content/uploads/2023/06/mango-juice-recipe.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 50%;
+    height: 100%;
+    border-radius: 10px;
+    
+}
+
+.items {
+    border-radius: 50%;
+    height: 90px;
+    width: 90px;
+}
+
+.last {
+    margin-right: 300px;
+}
+
+.text1 {
+    margin-top: -80px;
+    margin-left: 300px;
+
+}
+.qwe{
+    background-image: url(https://media.istockphoto.com/id/1009738476/photo/strawberry-fruits-on-the-right-side-on-wooden-background-with-copy-space-view-from-above.jpg?s=170667a&w=0&k=20&c=AEM-vqQOzK7GmW7_5QCjwteKUKU9lNtjJvtIFCp733w=);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right;
+    
+}
